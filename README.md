@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://shorturl.at/apvNX">
+  <source media="(prefers-color-scheme: light)" srcset="https://shorturl.at/apvNX">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://shorturl.at/apvNX">
+</picture>
+
+## About me
+
+Hi, I'm Abdallah. You might recognize me as GitHub's abdofola.
+
+<details>
+  <summary>My top langauges</summary>
+  
+  | Rank | Languages |
+  |-----:|-----------|
+  |     1| Javascript|
+  |     2| Python    |
+  |     3| C         |
+</details>
+
+---
+> Live as if you were to die tomorrow. Learn as if you were to live forever.
+
+— Mahatma Gandhi
