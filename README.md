@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://shorturl.at/apvNX">
   <source media="(prefers-color-scheme: light)" srcset="https://shorturl.at/apvNX">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://shorturl.at/apvNX">
+  <img alt="My personal photo, if it doesn't show, not my fault; locally it's working fine!" src="https://shorturl.at/apvNX">
 </picture>
 
 ## About me
