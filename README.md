@@ -4,14 +4,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer..;Live+and+breathe+open-source..;Active+learner/researcher..;Aspire+to+make+a+positive+impact..;"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+## <picture><img src = "https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width = 100px></picture> About me
 - 🔭 I’m currently working as a freelance Software Engineer (frontend, backend, full-stack, etc..).
 - 👯 I’m looking to collaborate on an open-source projects, and making a positive impact on the world.
 - 💬 Ask me about anything, at least say hi!.
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
+## <picture><img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width ="80"></picture> Skills
 
 - **Programming Languages**:
   
@@ -44,7 +44,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github status </b>
+## <picture><img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="80"></picture> Github stats 
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 <br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Let's Connect..!
+## <picture><img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" width ="120"></picture>Let's connect..!
   <a href="https://linkedin.com/in/abdallah-alkaser" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a><br>
